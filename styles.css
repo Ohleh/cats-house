@@ -155,7 +155,7 @@ img {
   right: 36px;
 }
 
-.hero-btn.next.hero-btn.prev:hover {
+.hero-btn:hover {
   background-color: #f07f2e;
 }
 
